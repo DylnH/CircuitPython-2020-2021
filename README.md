@@ -42,7 +42,7 @@ while True:
 ```
 ### [- Capacitive Touch Servo](https://drive.google.com/file/d/1xRx4ZBBYFXx2lvASjYpLX9V4Qhr1xc2n/view)
 
-<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
+<img src="IMG_20201130_134047.jpg?raw=true" width="400" height="300">
 
 ``` python
 import board
