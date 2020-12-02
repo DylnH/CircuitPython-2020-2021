@@ -18,6 +18,7 @@ while True:
     dot.fill((0,255,0))
     time.sleep(.08)  
 ```
+### [- Flashing Neopixel](https://drive.google.com/file/d/1xIV4XPiyzVJbje4d3qKjFSIho8wrQyDN/view)
 
 ``` python
 import board
@@ -33,6 +34,7 @@ while True:
     led.value = False
     time.sleep(0.5)  
 ```
+### [- Blinking LED](https://drive.google.com/file/d/1xfdP2e0o15KPA65ubKCEXpOUFBuyUwMZ/view)
 
 ``` python
 import board
@@ -63,3 +65,4 @@ while True:
 
     time.sleep(0.10)
 ```
+### [- Capacitive Touch Servo](https://drive.google.com/file/d/1xRx4ZBBYFXx2lvASjYpLX9V4Qhr1xc2n/view)
