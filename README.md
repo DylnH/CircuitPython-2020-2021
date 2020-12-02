@@ -44,22 +44,22 @@ import touchio
 #Servo setup
 pwm = pulseio.PWMOut(board.A2, duty_cycle=2 ** 25, frequency=25)
 
-my_servo = servo.ContinuousServo(pwm)
+my_srvo = servo.ContinuousServo(pwm)
 
 # Touch pins setup
-touch_A0 = touchio.TouchIn(bo
-touch_A1 = touchio.TouchIn(board.A1)
+Tch_A0 = touchio.TouchIn(bo
+Tch_A1 = touchio.TouchIn(board.A1)
 
 # Code
 while True:
 
-    if touch_A0.value:
+    if Tch_A0.value:
         print("oh im dizzy") # A0 has been touched
-        my_servo.throttle = 1 # Moves to 180
+        my_srvo.throttle = 1 # Moves to 180
        
-    if touch_A1.value:
+    if Tch_A1.value:
         print("please, stop spinning me") # A1 has been touched
-        my_servo.throttle = -1 # Moves to 0
+        my_srvo.throttle = -1 # Moves to 0
 
     time.sleep(0.10) 
 ```
