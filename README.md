@@ -2,7 +2,7 @@
 
 ### [- Flashing Neopixel](https://drive.google.com/file/d/1xIV4XPiyzVJbje4d3qKjFSIho8wrQyDN/view)
 
-<img src="IMG_20201124_115341~2.jpg?raw=true" width="600" height="600">
+<img src="IMG_20201124_115341~2.jpg?raw=true" width="400" height="300">
 
 ``` python
 import board
