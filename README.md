@@ -24,7 +24,7 @@ while True:
 ```
 ### [- Blinking LED](https://drive.google.com/file/d/1xfdP2e0o15KPA65ubKCEXpOUFBuyUwMZ/view)
 
-<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
+<img src="IMG_20201124_115341~2.jpg?raw=true" width="400" height="300">
 
 ``` python
 import board
