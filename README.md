@@ -2,6 +2,8 @@
 
 ### [- Flashing Neopixel](https://drive.google.com/file/d/1xIV4XPiyzVJbje4d3qKjFSIho8wrQyDN/view)
 
+<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
+
 ``` python
 import board
 import neopixel
@@ -22,6 +24,8 @@ while True:
 ```
 ### [- Blinking LED](https://drive.google.com/file/d/1xfdP2e0o15KPA65ubKCEXpOUFBuyUwMZ/view)
 
+<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
+
 ``` python
 import board
 import digitalio
@@ -37,6 +41,8 @@ while True:
     time.sleep(0.5)  
 ```
 ### [- Capacitive Touch Servo](https://drive.google.com/file/d/1xRx4ZBBYFXx2lvASjYpLX9V4Qhr1xc2n/view)
+
+<img src="Screenshot%202020-09-23%20at%205.05.33%20PM.png" width="350" height="228">
 
 ``` python
 import board
