@@ -1,8 +1,7 @@
 # Circuitpython-2020-2021
 
 
-'''
-import board
+''' import board
 import neopixel
 import time
 
@@ -17,5 +16,5 @@ while True:
     dot.fill((255,0,255))
     time.sleep(.08)
     dot.fill((0,255,0))
-    time.sleep(.08)  
-    '''
+    time.sleep(.08)
+'''
