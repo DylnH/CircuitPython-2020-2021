@@ -1,6 +1,6 @@
 # Circuitpython-2020-2021
 
-### [- Flashing Neopixel](https://drive.google.com/file/d/1xIV4XPiyzVJbje4d3qKjFSIho8wrQyDN/view)
+### [- Flashing Neopixel](https://drive.google.com/file/d/1xIV4XPiyzVJbje4d3qKjFSIho8wrQyDN/view?usp=sharing)
 
 <img src="IMG_20201130_134731~2.jpg?raw=true" width="400" height="300">
 
@@ -22,7 +22,7 @@ while True:
     dot.fill((0,255,0))
     time.sleep(.08)  
 ```
-### [- Blinking LED](https://drive.google.com/file/d/1xfdP2e0o15KPA65ubKCEXpOUFBuyUwMZ/view)
+### [- Blinking LED](https://drive.google.com/file/d/1xfdP2e0o15KPA65ubKCEXpOUFBuyUwMZ/view?usp=sharing)
 
 <img src="IMG_20201124_115341~2.jpg?raw=true" width="400" height="300">
 
@@ -40,7 +40,7 @@ while True:
     led.value = False
     time.sleep(0.5)  
 ```
-### [- Capacitive Touch Servo](https://drive.google.com/file/d/1xRx4ZBBYFXx2lvASjYpLX9V4Qhr1xc2n/view)
+### [- Capacitive Touch Servo](https://drive.google.com/file/d/1xRx4ZBBYFXx2lvASjYpLX9V4Qhr1xc2n/view?usp=sharing)
 
 <img src="IMG_20201130_134047.jpg?raw=true" width="400" height="300">
 
