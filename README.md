@@ -73,3 +73,30 @@ while True:
 
     time.sleep(0.10)
 ```
+
+``` python
+import board
+import neopixel
+import adafruit_hcsr04
+import simpleio
+
+HCSR04 = adafruit_hcsr04.HCSR04(echo_pin=board.A1, trigger_pin=board.A2)
+neopixel = neopixel.NeoPixel(board.NEOPIXEL, 1, brightness=.1)
+
+R = 0
+B = 0
+G = 0
+
+while True:
+    try:
+        dist = HCSR04.distance
+        if dist < = 10:
+            R = simpleio.map_range(dist, 0, 25, 255, 0)
+            B = simpleio.map_range(dist, 10, 25, 0, 255)
+            G = simpleio.map_range(dist, 25, 40, 0, 255)
+        else:
+            R = simpleio.map_range(dist, 0, 25, 255, 0)
+            B = simpleio.map_range(dist, 25, 40, 255, 0)
+            G = simpleio.map_range(dist, 25, 40, 0, 255)
+        neopixel.fill((int(r), int(g), int(b)))
+```
