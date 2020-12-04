@@ -76,7 +76,7 @@ while True:
 
 ### [- Distance Sensor](https://drive.google.com/file/d/1xwy4iNiz7cOKDy6K5ZTevV009zKRLCnS/view?usp=sharing)
 
-<img src="IMG_20201130_134047.jpg?raw=true" width="400" height="300">
+<img src="IMG_20201204_145331.jpg?raw=true" width="400" height="300">
 
 
 ``` python
