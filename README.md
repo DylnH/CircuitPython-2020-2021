@@ -74,6 +74,9 @@ while True:
     time.sleep(0.10)
 ```
 
+
+
+
 ``` python
 import board
 import neopixel
