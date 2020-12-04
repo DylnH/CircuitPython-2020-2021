@@ -101,5 +101,5 @@ while True:
             R = simpleio.map_range(dist, 0, 25, 255, 0)
             B = simpleio.map_range(dist, 25, 40, 255, 0)
             G = simpleio.map_range(dist, 25, 40, 0, 255)
-        neopixel.fill((int(r), int(g), int(b)))
+        neopixel.fill((int(R), int(G), int(B)))
 ```
