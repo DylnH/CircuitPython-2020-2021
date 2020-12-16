@@ -105,3 +105,33 @@ while True:
             G = simpleio.map_range(dist, 25, 40, 0, 255)
         neopixel.fill((int(R), int(G), int(B)))
 ```
+
+``` python
+from digitalio import DigitalInOut, Direction, Pull
+import time
+import board
+
+Int = DigitalInOut(board.A2)
+Int.direction = Direction.INPUT
+Int.pull = Pull.UP
+
+counter = 0
+
+state = False
+photo = False
+
+max = 4
+start = time.time()
+while True:
+    photo = Int.value
+    if photo and not state:
+            counter += 1
+    state = photo
+
+    remaining = max - time.time()
+
+    if remaining <= 0:
+        print("I see you this many times:", str(counter))
+        max = time.time() + 4
+        counter = 0
+```
