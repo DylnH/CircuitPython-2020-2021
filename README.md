@@ -176,7 +176,7 @@ ________________________________________________________________________________
 ### - Credit
 
 
-- System of wiring Diagrams influenced by [Alden Dent]( https://github.com/adent11)
+- System of Wiring Diagrams influenced by [Alden Dent]( https://github.com/adent11)
 - Video that helped me with [Flashing Neopixel]( https://youtu.be/G7myv1Eez5U) - Also Subscribe to Dr. Shield for lesson on Engineering 3/4 and AP Physics C
 - Site that helped me with [Blinking LED]( https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs) 
 - Site that helped me with [Capacitive Touch Servo]( https://learn.adafruit.com/circuitpython-essentials/circuitpython-servo)
