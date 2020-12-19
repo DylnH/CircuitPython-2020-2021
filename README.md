@@ -119,6 +119,10 @@ while True:
 
 <img src="IMG_20201218_191443.jpg?raw=true" width="400" height="300">
 
+### - Wiring Diagram
+
+<img src="Screenshot%202020-12-18%20at%209.15.44%20PM.png?raw=true" width="300" height="225">
+
 ``` python
 from digitalio import DigitalInOut, Direction, Pull
 import time
