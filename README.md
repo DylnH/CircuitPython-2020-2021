@@ -44,6 +44,9 @@ while True:
 
 <img src="IMG_20201130_134047.jpg?raw=true" width="400" height="300">
 
+
+<img src="Screenshot%202020-12-18%20at%208.52.04%20PM.png?raw=true" width="400" height="300">
+
 ``` python
 import board
 import time
