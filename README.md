@@ -82,6 +82,7 @@ while True:
 
     time.sleep(0.10)
 ```
+_________________________________________________________________________________________________________________________________________________________________________
 
 ### [- Distance Sensor](https://drive.google.com/file/d/1xwy4iNiz7cOKDy6K5ZTevV009zKRLCnS/view?usp=sharing)
 
@@ -90,8 +91,6 @@ while True:
 ### - Wiring Diagram
 
 <img src="Screenshot%202020-12-18%20at%209.28.11%20PM.png?raw=true" width="400" height="300">
-
-
 
 ``` python
 import board
@@ -119,6 +118,7 @@ while True:
             G = simpleio.map_range(dist, 25, 40, 0, 255)
         neopixel.fill((int(R), int(G), int(B)))
 ```
+_________________________________________________________________________________________________________________________________________________________________________
 
 ### [- Photointerrupter](https://drive.google.com/file/d/1zR5QSH5Q5MA70bo70wDd5sJEvBPeExNe/view?usp=sharing)
 
