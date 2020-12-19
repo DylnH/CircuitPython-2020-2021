@@ -57,7 +57,7 @@ pwm = pulseio.PWMOut(board.A2, duty_cycle=2 ** 25, frequency=25)
 my_servo = servo.ContinuousServo(pwm)
 
 # Touch pins setup
-touch_A0 = touchio.TouchIn(bo
+touch_A0 = touchio.TouchIn(board.A0)
 touch_A1 = touchio.TouchIn(board.A1)
 
 # Code
