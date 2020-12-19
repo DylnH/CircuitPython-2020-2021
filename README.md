@@ -52,7 +52,6 @@ ________________________________________________________________________________
 
 <img src="IMG_20201130_134047.jpg?raw=true" width="400" height="300">
 
-
 ### - Wiring Diagram
 
 <img src="Screenshot%202020-12-18%20at%208.52.04%20PM.png?raw=true" width="300" height="225">
@@ -167,4 +166,6 @@ ________________________________________________________________________________
 
 
 - System of wiring Diagrams influenced by [Alden Dent]( https://github.com/adent11)
+- Video that helped me with [Flashing Neopixel]( https://youtu.be/G7myv1Eez5U)- also Subscribe to Dr. Shield for lesson on Engineering 3/4 and AP Physics C
 - Site that helped me with [Blinking LED]( https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs) 
+- Site that helped me with [Capacitive Touch Servo]( https://learn.adafruit.com/circuitpython-essentials/circuitpython-servo)
