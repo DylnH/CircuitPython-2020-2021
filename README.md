@@ -49,7 +49,7 @@ ________________________________________________________________________________
 <img src="IMG_20201130_134047.jpg?raw=true" width="400" height="300">
 
 
-### - Wire Diagram
+### - Wiring Diagram
 
 <img src="Screenshot%202020-12-18%20at%208.52.04%20PM.png?raw=true" width="300" height="225">
 
@@ -86,6 +86,11 @@ while True:
 ### [- Distance Sensor](https://drive.google.com/file/d/1xwy4iNiz7cOKDy6K5ZTevV009zKRLCnS/view?usp=sharing)
 
 <img src="IMG_20201204_145331.jpg?raw=true" width="400" height="300">
+
+### - Wiring Diagram
+
+<img src="Screenshot%202020-12-18%20at%209.28.11%20PM.png?raw=true" width="400" height="300">
+
 
 
 ``` python
