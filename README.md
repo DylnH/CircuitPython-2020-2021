@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 ### - Wire Diagram
 
-<img src="Screenshot%202020-12-18%20at%208.52.04%20PM.png?raw=true" width="300" height="200">
+<img src="Screenshot%202020-12-18%20at%208.52.04%20PM.png?raw=true" width="300" height="250">
 
 ``` python
 import board
