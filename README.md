@@ -9,8 +9,10 @@ import board
 import neopixel
 import time
 
+# Neopixel Setup
 dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
 
+# Code for Strobe lights
 while True:
     print("WARNING...May cause seizure...Whoops¯\_(ツ)_/¯")
     dot.fill((0,0,255))
@@ -37,9 +39,11 @@ import board
 import digitalio
 import time
  
+# LED pin Setup 
 led = digitalio.DigitalInOut(board.A1)
 led.direction = digitalio.Direction.OUTPUT
  
+# Code for Blinking LED 
 while True:
     led.value = True
     time.sleep(0.5)
@@ -63,16 +67,16 @@ import pulseio
 import servo
 import touchio
 
-#Servo setup
+#Servo pin Setup
 pwm = pulseio.PWMOut(board.A2, duty_cycle=2 ** 25, frequency=25)
 
 my_servo = servo.ContinuousServo(pwm)
 
-# Touch pins setup
+# Touch pin Setup
 touch_A0 = touchio.TouchIn(board.A0)
 touch_A1 = touchio.TouchIn(board.A1)
 
-# Code
+# Code for changing direction of a servo
 while True:
 
     if touch_A0.value:
@@ -101,13 +105,16 @@ import neopixel
 import adafruit_hcsr04
 import simpleio
 
+# HCSR04 pin Setup
 HCSR04 = adafruit_hcsr04.HCSR04(echo_pin=board.A1, trigger_pin=board.A2)
 neopixel = neopixel.NeoPixel(board.NEOPIXEL, 1, brightness=.1)
 
+#RGB color setup
 R = 0
 B = 0
 G = 0
 
+# Code for measuring distance with Neopixel
 while True:
     try:
         dist = HCSR04.distance
@@ -136,17 +143,21 @@ from digitalio import DigitalInOut, Direction, Pull
 import time
 import board
 
+# Photointerrupter pin Setup
 Int = DigitalInOut(board.A2)
 Int.direction = Direction.INPUT
 Int.pull = Pull.UP
 
+#Serial print counter Setup 
 counter = 0
 
 state = False
 photo = False
 
-max = 4
+max = 4 # 4 seconds between each read
 start = time.time()
+
+# Code for sensing the amount of times the Photointerrupter sences something
 while True:
     photo = Int.value
     if photo and not state:
