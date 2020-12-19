@@ -169,4 +169,4 @@ ________________________________________________________________________________
 - Video that helped me with [Flashing Neopixel]( https://youtu.be/G7myv1Eez5U) - Also Subscribe to Dr. Shield for lesson on Engineering 3/4 and AP Physics C
 - Site that helped me with [Blinking LED]( https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs) 
 - Site that helped me with [Capacitive Touch Servo]( https://learn.adafruit.com/circuitpython-essentials/circuitpython-servo)
-- Sites that helped me with [Distance Senor](https://learn.adafruit.com/ultrasonic-sonar-distance-sensors/python-circuitpython) also [Distance Senor](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
+- Sites that helped me with [Distance Senor](https://learn.adafruit.com/ultrasonic-sonar-distance-sensors/python-circuitpython) [Also Distance Senor](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
