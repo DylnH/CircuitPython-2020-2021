@@ -167,4 +167,4 @@ ________________________________________________________________________________
 
 
 - System of wiring Diagrams influenced by [Alden Dent]( https://github.com/adent11)
-
+- Site that helped me with [Blinking LED]( https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs) 
