@@ -106,7 +106,7 @@ while True:
         neopixel.fill((int(R), int(G), int(B)))
 ```
 
-### [- photointerrupter](https://drive.google.com/file/d/1zR5QSH5Q5MA70bo70wDd5sJEvBPeExNe/view?usp=sharing)
+### [- Photointerrupter](https://drive.google.com/file/d/1zR5QSH5Q5MA70bo70wDd5sJEvBPeExNe/view?usp=sharing)
 
 <img src="IMG_20201218_191443.jpg?raw=true" width="400" height="300">
 
