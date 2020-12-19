@@ -170,3 +170,4 @@ ________________________________________________________________________________
 - Site that helped me with [Blinking LED]( https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs) 
 - Site that helped me with [Capacitive Touch Servo]( https://learn.adafruit.com/circuitpython-essentials/circuitpython-servo)
 - Sites that helped me with [Distance Senor](https://learn.adafruit.com/ultrasonic-sonar-distance-sensors/python-circuitpython) / [Also Distance Senor](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
+- Site that helped me with [Photointerrupter](https://www.programiz.com/python-programming/time)
