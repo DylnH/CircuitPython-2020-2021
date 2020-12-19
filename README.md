@@ -106,6 +106,10 @@ while True:
         neopixel.fill((int(R), int(G), int(B)))
 ```
 
+### [- photointerrupter](https://drive.google.com/file/d/1zR5QSH5Q5MA70bo70wDd5sJEvBPeExNe/view?usp=sharing)
+
+<img src="IMG_20201204_145331.jpg?raw=true" width="400" height="300">
+
 ``` python
 from digitalio import DigitalInOut, Direction, Pull
 import time
