@@ -28,7 +28,9 @@ ________________________________________________________________________________
 
 <img src="IMG_20201124_115341~2.jpg?raw=true" width="400" height="300">
 
-<img src="IMG_20201124_115341~2.jpg?raw=true" width="300" height="225">
+### - Wiring Diagram
+
+<img src="Screenshot%202020-12-18%20at%209.51.50%20PM.png?raw=true" width="300" height="225">
 
 ``` python
 import board
