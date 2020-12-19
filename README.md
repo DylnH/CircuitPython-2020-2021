@@ -176,8 +176,8 @@ ________________________________________________________________________________
 ### - Credit
 
 
-- Repos that helped me understand what the code actually does [Alden D.](https://github.com/adent11/CircuitPython) [Bob K.]( https://github.com/jkammau97/CircuitPython) [Lucas F.]( https://github.com/lfuller20/Basic_Circuit_Python)
-- System of Wiring Diagrams influenced by [Alden Dent]( https://github.com/adent11)
+- Repos that helped me understand what the code actually does [Alden D.](https://github.com/adent11/CircuitPython) / [Bob K.]( https://github.com/jkammau97/CircuitPython) / [Lucas F.]( https://github.com/lfuller20/Basic_Circuit_Python) / [Will K.]( https://github.com/willhk10/Circuitpython3)
+- System of Wiring Diagrams influenced by [Alden D.]( https://github.com/adent11)
 - Video that helped me with [Flashing Neopixel]( https://youtu.be/G7myv1Eez5U) - Also Subscribe to Dr. Shield for lesson on Engineering 3/4 and AP Physics C
 - Site that helped me with [Blinking LED]( https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs) 
 - Site that helped me with [Capacitive Touch Servo]( https://learn.adafruit.com/circuitpython-essentials/circuitpython-servo)
